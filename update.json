@@ -1,0 +1,5 @@
+{
+  "version": "1.63",
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.63/NOWS-macOS-1.63.zip",
+  "release_notes": "新增批量订阅；设置界面采用 macOS 风格重新设计；优化缓存统计与安全清理；接入应用内版本更新。"
+}
