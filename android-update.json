@@ -1,7 +1,7 @@
 {
-  "version": "1.77",
-  "version_code": 77,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.77/NOWS-Android-1.77.apk",
-  "sha256": "8102f77ae1f5ae9c5cc95a7ba1ce3c7719ba167fd15ce35eafad13aca34ec346",
-  "release_notes": "新增手机版应用内自动检查、校验与安装更新；优化首页顶部操作区，搜索、订阅操作与设置分离。"
+  "version": "1.78",
+  "version_code": 78,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.78/NOWS-Android-1.78.apk",
+  "sha256": "f821b98df00673c4cdfd292a53c1b03ba8103bdeaa57f711d6ab9ca124e7d02b",
+  "release_notes": "统一手机端与电脑端的订阅源头像抓取优先级和回退逻辑；升级后后台修正现有订阅头像，并保留全部本地订阅与阅读数据。"
 }
