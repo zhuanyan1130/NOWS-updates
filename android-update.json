@@ -1,0 +1,7 @@
+{
+  "version": "1.77",
+  "version_code": 77,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.77/NOWS-Android-1.77.apk",
+  "sha256": "8102f77ae1f5ae9c5cc95a7ba1ce3c7719ba167fd15ce35eafad13aca34ec346",
+  "release_notes": "新增手机版应用内自动检查、校验与安装更新；优化首页顶部操作区，搜索、订阅操作与设置分离。"
+}
