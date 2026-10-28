@@ -1,7 +1,7 @@
 {
-  "version": "1.78",
-  "version_code": 78,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.78/NOWS-Android-1.78.apk",
-  "sha256": "f821b98df00673c4cdfd292a53c1b03ba8103bdeaa57f711d6ab9ca124e7d02b",
-  "release_notes": "统一手机端与电脑端的订阅源头像抓取优先级和回退逻辑；升级后后台修正现有订阅头像，并保留全部本地订阅与阅读数据。"
+  "version": "1.79",
+  "version_code": 79,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.79/NOWS-Android-1.79.apk",
+  "sha256": "9623809edaf96df8cf38db0fe59f4e16f5e1c32d219efb5a71827085b3f9c287",
+  "release_notes": "优化手机端与电脑端实时双向同步，减少状态延迟和回退；减少重复数据上传与列表重绘，提升整体操作流畅度；修复同步历史文章时可能出现的 SQLite 唯一键冲突。"
 }
