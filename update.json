@@ -1,5 +1,5 @@
 {
-  "version": "1.64",
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.64/NOWS-macOS-1.64.zip",
-  "release_notes": "优化网页订阅发布时间抓取：支持 Open Graph、HTML time 与 JSON-LD 元数据，并在自动刷新时回填旧条目缺失的发布时间，减少“时间未知”。"
+  "version": "1.66",
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.66/NOWS-macOS-1.66.zip",
+  "release_notes": "优化手机端与电脑端实时双向同步，减少状态延迟和回退；减少重复数据上传与列表重绘，提升整体操作流畅度；修复同步历史文章时可能出现的 SQLite 唯一键冲突。"
 }
