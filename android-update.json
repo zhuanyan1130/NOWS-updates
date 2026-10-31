@@ -1,7 +1,7 @@
 {
-  "version": "1.81",
-  "version_code": 81,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.81/NOWS-Android-1.81.apk",
-  "sha256": "28500e63830a93bf87675ebb1305cc15cf443600f132d8d56ebff3f6005a3499",
-  "release_notes": "新增稳定订阅源身份匹配，自动合并网页、RSS和频道地址别名，避免跨端同步产生重复订阅，并完整保留内容、收藏、已读、稍后读与分类。"
+  "version": "1.82",
+  "version_code": 82,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.82/NOWS-Android-1.82.apk",
+  "sha256": "75f02888b1965a0fa5c225616e06bdce100508fe9120069479b35c3f625d3f49",
+  "release_notes": "修复旧数据库升级时订阅源去重异常导致的启动闪退；主界面优先打开，重复订阅在后台独立事务中安全修复；单条异常自动回滚，并完整保留订阅、文章、收藏、已读、稍后读与分类数据。"
 }
