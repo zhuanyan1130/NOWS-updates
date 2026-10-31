@@ -1,5 +1,5 @@
 {
-  "version": "1.66",
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.66/NOWS-macOS-1.66.zip",
-  "release_notes": "优化手机端与电脑端实时双向同步，减少状态延迟和回退；减少重复数据上传与列表重绘，提升整体操作流畅度；修复同步历史文章时可能出现的 SQLite 唯一键冲突。"
+  "version": "1.68",
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.68/NOWS-macOS-1.68.zip",
+  "release_notes": "新增稳定订阅源身份匹配，自动合并网页、RSS和频道地址别名，避免跨端同步产生重复订阅，并完整保留内容、收藏、已读、稍后读与分类。"
 }
