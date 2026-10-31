@@ -1,7 +1,7 @@
 {
-  "version": "1.79",
-  "version_code": 79,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.79/NOWS-Android-1.79.apk",
-  "sha256": "9623809edaf96df8cf38db0fe59f4e16f5e1c32d219efb5a71827085b3f9c287",
-  "release_notes": "优化手机端与电脑端实时双向同步，减少状态延迟和回退；减少重复数据上传与列表重绘，提升整体操作流畅度；修复同步历史文章时可能出现的 SQLite 唯一键冲突。"
+  "version": "1.81",
+  "version_code": 81,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.81/NOWS-Android-1.81.apk",
+  "sha256": "28500e63830a93bf87675ebb1305cc15cf443600f132d8d56ebff3f6005a3499",
+  "release_notes": "新增稳定订阅源身份匹配，自动合并网页、RSS和频道地址别名，避免跨端同步产生重复订阅，并完整保留内容、收藏、已读、稍后读与分类。"
 }
