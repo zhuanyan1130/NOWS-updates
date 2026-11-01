@@ -1,7 +1,7 @@
 {
-  "version": "1.82",
-  "version_code": 82,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.82/NOWS-Android-1.82.apk",
-  "sha256": "75f02888b1965a0fa5c225616e06bdce100508fe9120069479b35c3f625d3f49",
-  "release_notes": "修复旧数据库升级时订阅源去重异常导致的启动闪退；主界面优先打开，重复订阅在后台独立事务中安全修复；单条异常自动回滚，并完整保留订阅、文章、收藏、已读、稍后读与分类数据。"
+  "version": "1.83",
+  "version_code": 83,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.83/NOWS-Android-1.83.apk",
+  "sha256": "442ea93b1c24dece24430962e1c461a283a054b81832f8807ccec38de5442cb6",
+  "release_notes": "同步电脑端虎嗅实时文章源修复，主页订阅自动发现 rss.huxiu.com 及常见 RSS/Atom 地址；将 rss、feed、feeds 独立子域名与网站主页识别为同一订阅源，自动合并重复项并保留文章与阅读状态；网页未声明 RSS 时尝试安全的通用候选源，失败后才回退网页快照，改善同类网站订阅效果。"
 }
