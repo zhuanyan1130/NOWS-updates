@@ -1,7 +1,7 @@
 {
-  "version": "1.83",
-  "version_code": 83,
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.83/NOWS-Android-1.83.apk",
-  "sha256": "442ea93b1c24dece24430962e1c461a283a054b81832f8807ccec38de5442cb6",
-  "release_notes": "同步电脑端虎嗅实时文章源修复，主页订阅自动发现 rss.huxiu.com 及常见 RSS/Atom 地址；将 rss、feed、feeds 独立子域名与网站主页识别为同一订阅源，自动合并重复项并保留文章与阅读状态；网页未声明 RSS 时尝试安全的通用候选源，失败后才回退网页快照，改善同类网站订阅效果。"
+  "version": "1.86",
+  "version_code": 86,
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/android-v1.86/NOWS-Android-1.86.apk",
+  "sha256": "e84f4b016c73caec6f075c635bbf0f74355d1dfa8b6a5a33b2a9097aec446c20",
+  "release_notes": "完成 Supabase 云账号与 Mac 实时双向同步优化；订阅源、分类文件夹、收藏、稍后读与已读状态支持增量同步；修复文件夹层级同步、重复数据合并及离线队列恢复，并完成真机双端同步验收。"
 }
