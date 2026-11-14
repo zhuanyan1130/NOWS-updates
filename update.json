@@ -1,5 +1,6 @@
 {
-  "version": "1.69",
-  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.69/NOWS-macOS-1.69.zip",
-  "release_notes": "修复虎嗅主页与 RSS 被重复识别的问题；自动切换至实时文章源并清理错误网页占位；增强同类网站的 RSS/Atom 自动发现、别名合并与旧 Web 订阅自修复。"
+  "version": "1.70",
+  "download_url": "https://github.com/zhuanyan1130/NOWS-updates/releases/download/v1.70/NOWS-macOS-1.70.zip",
+  "sha256": "f72a8aa84d659afae974a107947ef2cab7933f7400493dd9d015790bdfd71cc0",
+  "release_notes": "完成 Supabase 云账号与 Android 实时双向同步优化；订阅源、分类文件夹、收藏、稍后读与已读状态支持增量同步；修复文件夹层级同步、重复数据合并及离线队列恢复，优化新建文件夹响应速度。"
 }
